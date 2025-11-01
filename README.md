@@ -1,9 +1,9 @@
 **README.md – Privacy Policy Overview**
 
-### Privacy Policy for KRA PIN Checker App
+### Privacy Policy for PinSight App
 
 **Introduction**
-KRA PIN Checker is a mobile application that connects directly to the Kenya Revenue Authority (KRA) API to verify taxpayer information. The app is designed to maintain your privacy by ensuring no personal data is collected, stored, or shared.
+PinSight is a mobile application that connects directly to the Kenya Revenue Authority (KRA) API to verify taxpayer information. The app is designed to maintain your privacy by ensuring no personal data is collected, stored, or shared.
 
 **Data Handling**
 
